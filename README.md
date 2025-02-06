@@ -56,18 +56,13 @@ Une fois toutes ces étapes de configuration terminées, tu pourras enfin commen
 
 ## Tableau des taches
 
-| **Catégorie**               | **Tâches**                                                                                                                                                       | **Statut**                                                                                                                                                                  |
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Configuration Git**       | - Installer Git<br> - Créer et ajouter une nouvelle clé SSH (local + GitHub)<br> - Ajouter Git Bash                                                             | <span style="color:green">Terminé</span><br> <span style="color:green">Terminé</span><br> <span style="color:green">Terminé</span>                                         |
-| **Docker**                  | - Installer Docker Desktop<br> - Lire la documentation Docker<br> - Lancer un conteneur `hello-world`<br> - Créer et configurer un conteneur "host"<br> - Synchroniser un dossier entre le conteneur et le PC<br> - Créer un snapshot du conteneur pour faciliter le rebuild  | <span style="color:green">Terminé</span><br> <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span> |
-| **PHP**                     | - Installer PHP<br> - Configurer un débogueur                                                                                                                    | <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span>                                                                                     |
-| **Éditeur de Code VSCode**  | - Installer les extensions Docker et PHP<br> - Configurer un thème PHP<br> - Configurer le compilateur PHP<br> - Ajouter un linter                               | <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span> |
-| **Laravel**                 | - Installer Laravel dans le conteneur Docker<br> - Installer les dépendances (Composer, WSL, Node.js, npm)<br> - Configurer Laravel                             | <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span><br> <span style="color:orange">À faire</span>                                        |
-| **JavaScript** *(optionnel)*| - Ajouter JavaScript si besoin                                                                                                                                   | <span style="color:orange">À faire</span>                                                                                                                                    |
-| **Démarrage du Développement** | Une fois toutes les étapes de configuration terminées, commencer le développement 🚀                                                                        | <span style="color:orange">À faire</span>                                                                                                                                    |
+| **Catégorie** | **Tâches** | **Statut** |
+|---------------|------------|------------|
+| **Configuration Git**          |- Installer Git<br> - Créer et ajouter une nouvelle clé SSH (local + GitHub) <br> - Ajouter Git Bash | Terminé <br> Terminé <br> Terminé |
+| **Docker**                     |- Installer Docker Desktop<br> - Lire la documentation Docker<br> - Lancer un conteneur `hello-world`<br> - Créer et configurer un conteneur "host"<br> - Synchroniser un dossier entre le conteneur et le PC<br> - Créer un snapshot du conteneur pour faciliter le rebuild | Terminé<br> À faire<br> À faire<br> À faire<br> À faire<br> À faire |
+| **PHP**                        |- Installer PHP<br> - Configurer un débogueur | Terminé<br> À faire |
+| **Éditeur de Code VSCode**     |- Installer les extensions Docker et PHP<br> - Configurer un thème PHP<br> - Configurer le compilateur PHP<br> - Ajouter un linter | À faire<br> À faire<br> À faire<br> À faire |
+| **Laravel**                    | - Installer Laravel dans le conteneur Docker<br> - Installer les dépendances (Composer, WSL, Node.js, npm)<br> - Configurer Laravel                             | À faire<br> À faire<br> À faire                                        |
+| **JavaScript** *(optionnel)*   | - Ajouter JavaScript si besoin | À faire |
+| **Démarrage du Développement** | Une fois toutes les étapes de configuration terminées, commencer le développement 🚀 | À faire |
 
-<!--
-À faire : <span style="color:orange">À faire</span>
-En cours : <span style="color:blue">En cours</span>
-Terminé : <span style="color:green">Terminé</span>
--->
